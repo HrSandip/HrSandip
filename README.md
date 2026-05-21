@@ -1,10 +1,10 @@
 # 🚀 GitHub Profile README
 
 <h1 align="center">Hi 👋, I'm Sandip Das</h1>
-<h3 align="center">Data Analytics | AI/ML Enthusiast | Web Developer</h3>
+<h3 align="center">Data Analytics | AI/ML Enthusiast </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Data+Analytics+%F0%9F%93%8A;AI+%26+Machine+Learning+%F0%9F%A4%96;Full+Stack+Web+Developer+%F0%9F%8C%90;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Data+Analytics+%F0%9F%93%8A;AI+%26+Machine+Learning+%F0%9F%A4%96;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,7 +13,7 @@
 
 - 🔭 Currently working on **AI & Data Analytics Projects**
 - 🌱 Learning **Deep Learning, NLP & Cloud Computing**
-- 💻 Skilled in **Python, Machine Learning, Data Visualization & Web Development**
+- 💻 Skilled in **Python, Machine Learning, Data Analytics & Data Visualization**
 - 📊 Love turning data into meaningful insights
 - ⚡ Fun fact: I debug faster with coffee ☕
 
@@ -26,7 +26,7 @@
   <a href="https://www.python.org">
     <img src="https://skillicons.dev/icons?i=python" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <!--<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://skillicons.dev/icons?i=javascript" />
   </a>
   <a href="https://www.java.com">
@@ -38,9 +38,9 @@
   <a href="https://isocpp.org">
     <img src="https://skillicons.dev/icons?i=cpp" />
   </a>
-</p>
+</p>-->
 
-### 🌐 Web Development
+<!--### 🌐 Web Development
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://skillicons.dev/icons?i=html" />
@@ -60,7 +60,7 @@
   <a href="https://getbootstrap.com">
     <img src="https://skillicons.dev/icons?i=bootstrap" />
   </a>
-</p>
+</p>-->
 
 ### 🤖 AI / ML / Data Analytics
 <p>
