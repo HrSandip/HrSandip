@@ -65,10 +65,10 @@
 ### 🤖 AI / ML / Data Analytics
 <p>
   <a href="https://www.tensorflow.org">
-    <img src="https://skillicons.dev/icons?i=tensorflow" />
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   </a>
   <a href="https://pytorch.org">
-    <img src="https://skillicons.dev/icons?i=pytorch" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   </a>
   <a href="https://pandas.pydata.org">
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -80,7 +80,7 @@
     <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   </a>
   <a href="https://powerbi.microsoft.com">
-    <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   </a>
   <a href="https://www.tableau.com">
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
